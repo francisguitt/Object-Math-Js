@@ -35,23 +35,6 @@ Abra o arquivo example.js em um editor de código.
 JavaScript (ES6+)
 Node.js (opcional para execução)
 
-📖 Exemplos de Uso
-
-Converter Graus para Radianos
-let graus = 90;
-let radianos = graus * (Math.PI / 180);
-console.log(`90 graus em radianos: ${radianos}`); // Saída: 1.5708
-
-Cálculo da Hipotenusa
-let catetoOposto = 3;
-let catetoAdjacente = 4;
-let hipotenusa = Math.hypot(catetoOposto, catetoAdjacente);
-console.log(`Hipotenusa: ${hipotenusa}`); // Saída: 5
-
-Área de um Círculo
-let raio = 5;
-let area = Math.PI * Math.pow(raio, 2);
-console.log(`Área do círculo: ${area}`); // Saída: 78.5398
 
 📂 Estrutura do Projeto
 
