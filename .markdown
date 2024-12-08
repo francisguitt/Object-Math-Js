@@ -1,7 +1,6 @@
 Matemática Prática com JavaScript (Continuação)
 Neste capítulo, vamos explorar mais aplicações de trigonometria, aritmética e geometria. Faremos uso de conceitos como áreas, perímetros e propriedades de figuras geométricas além dos triângulos e círculos.
-
-8. Propriedades de Retângulos
+ Propriedades de Retângulos
 O retângulo é uma figura geométrica com:
 
 Base (
