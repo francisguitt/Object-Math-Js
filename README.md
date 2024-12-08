@@ -29,7 +29,7 @@ Clone o repositório:
 
 git clone https://github.com/francisguitt/matematica-pratica-js.git
 cd matematica-pratica-js
-Abra o arquivo index.js em um editor de código.
+Abra o arquivo example.js em um editor de código.
 
 🔧 Tecnologias
 JavaScript (ES6+)
