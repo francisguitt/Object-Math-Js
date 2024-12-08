@@ -1,0 +1,136 @@
+
+
+
+Objeto Math no JavaScript
+Propriedades do Math
+
+Math.E
+A constante de Euler (aproximadamente 2.718).
+
+Math.LN10
+O logaritmo natural de 10 (aproximadamente 2.302).
+
+Math.LN2
+O logaritmo natural de 2 (aproximadamente 0.693).
+
+Math.LOG10E
+O logaritmo de Euler na base 10 (aproximadamente 0.434).
+
+Math.LOG2E
+O logaritmo de Euler na base 2 (aproximadamente 1.442).
+
+Math.PI
+O valor de π (aproximadamente 3.14159).
+
+Math.SQRT1_2
+A raiz quadrada de 1/2 (aproximadamente 0.707).
+
+Math.SQRT2
+A raiz quadrada de 2 (aproximadamente 1.414).
+
+Métodos do Math
+Math.abs(x)
+Retorna o valor absoluto de um número.
+
+Math.acos(x)
+Retorna o arco cosseno de x (em radianos).
+
+Math.acosh(x)
+Retorna o arco cosseno hiperbólico de x.
+
+Math.asin(x)
+Retorna o arco seno de x (em radianos).
+
+Math.asinh(x)
+Retorna o arco seno hiperbólico de x.
+
+Math.atan(x)
+Retorna o arco tangente de x (em radianos).
+
+Math.atan2(y, x)
+Retorna o arco tangente do quociente de dois números (em radianos).
+
+Math.atanh(x)
+Retorna o arco tangente hiperbólico de x.
+
+Math.cbrt(x)
+Retorna a raiz cúbica de x.
+
+Math.ceil(x)
+Arredonda x para o próximo número inteiro maior ou igual.
+
+Math.clz32(x)
+Retorna o número de bits à esquerda de 0 no número de 32 bits.
+
+Math.cos(x)
+Retorna o cosseno de x (em radianos).
+
+Math.cosh(x)
+Retorna o cosseno hiperbólico de x.
+
+Math.exp(x)
+Retorna e elevado à potência de x.
+
+Math.expm1(x)
+Retorna Math.exp(x) - 1.
+
+Math.floor(x)
+Arredonda x para o próximo número inteiro menor ou igual.
+
+Math.fround(x)
+Retorna a aproximação em ponto flutuante de precisão simples de x.
+
+Math.hypot(...values)
+Retorna a raiz quadrada da soma dos quadrados de seus argumentos.
+
+Math.imul(a, b)
+Realiza a multiplicação de 32 bits com sinal de dois inteiros.
+
+Math.log(x)
+Retorna o logaritmo natural de x (base e).
+
+Math.log10(x)
+Retorna o logaritmo de x na base 10.
+
+Math.log1p(x)
+Retorna o logaritmo natural de 1 + x.
+
+Math.log2(x)
+Retorna o logaritmo de x na base 2.
+
+Math.max(...values)
+Retorna o maior número de uma lista de argumentos.
+
+Math.min(...values)
+Retorna o menor número de uma lista de argumentos.
+
+Math.pow(base, exponent)
+Retorna base elevado à potência exponent.
+
+Math.random()
+Retorna um número pseudoaleatório entre 0 e 1.
+
+Math.round(x)
+Arredonda x para o inteiro mais próximo.
+
+Math.sign(x)
+Retorna o sinal de um número (1, -1 ou 0).
+
+Math.sin(x)
+Retorna o seno de x (em radianos).
+
+Math.sinh(x)
+Retorna o seno hiperbólico de x.
+
+Math.sqrt(x)
+Retorna a raiz quadrada de x.
+
+Math.tan(x)
+Retorna a tangente de x (em radianos).
+
+Math.tanh(x)
+Retorna a tangente hiperbólica de x.
+
+Math.trunc(x)
+Retorna a parte inteira de x, removendo quaisquer dígitos fracionários.
+
